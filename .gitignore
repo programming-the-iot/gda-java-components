@@ -2,3 +2,4 @@
 /target/
 **/cert
 **/cred
+**/.DS_Store
